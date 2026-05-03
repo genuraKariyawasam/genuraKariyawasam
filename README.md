@@ -33,7 +33,7 @@
 
 ## Contact & Links
 
-- ✉️ Email: [pkariyawasa@gmail.com](mailto:john.smith@example.com)
-- 🐙 GitHub: [https://github.com/genuraKariyawasam](https://github.com/johnsmith)
-- 💼 LinkedIn: [www.linkedin.com/in/genura-kariyawasam-ab5727381](https://linkedin.com/in/johnsmith)
-- 🌐 Website: [genurak.me](https://johnsmith.dev)
+- ✉️ Email: [pkariyawasa@gmail.com](pkariyawasa@gmail.com)
+- 🐙 GitHub: [github.com/genuraKariyawasam](https://github.com/genuraKariyawasam)
+- 💼 LinkedIn: [in/genura-kariyawasam](www.linkedin.com/in/genura-kariyawasam-ab5727381)
+- 🌐 Website: [genurak.me](genurak.me)
